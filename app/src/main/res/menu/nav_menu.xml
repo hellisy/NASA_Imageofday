@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/all_pictures"
+        android:title="@string/all_pictures"
+        android:icon="@drawable/gallery"
+        android:orderInCategory="50"
+        app:showAsAction="always"/>  <!-- This uses showAsAction=always, so look at icon= parameter -->
+
+
+    <item android:id="@+id/date_picker"
+        android:orderInCategory="75"
+        android:icon="@drawable/calendaricon"
+        app:showAsAction="always"
+        android:title="@string/select_date"/>    <!-- This uses showAsAction=always, so look at icon= parameter -->
+
+    <item android:id="@+id/item3"
+        android:icon="@drawable/bookmarkicon"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Mail"/>
+
+</menu>

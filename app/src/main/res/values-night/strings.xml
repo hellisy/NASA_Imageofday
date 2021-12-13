@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nasa_earth_imagery_database_HomeScreen">Nasa Image of the Day</string>
+    <string name="next">BEGIN</string>
+    <string name="earth">Earth</string>
+    <string name="nasa_picture_of_the_day">NASA Picture of the Day</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

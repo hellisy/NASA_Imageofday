@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NASA Image of the Day</string>
+    <string name="nasa_earth_imagery_database_HomeScreen">Nasa Image of the Day</string>
+    <string name="next">BEGIN</string>
+    <string name="all_pictures">All Pictures</string>
+    <string name="select_date">Select Date</string>
+    <string name="earth">Earth</string>
+    <string name="nasa_picture_of_the_day">NASA Picture of the Day</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
